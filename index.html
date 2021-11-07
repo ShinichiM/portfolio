@@ -9,41 +9,60 @@
 </head>
 <body>
     <header>
-        <div class="header-img">
-            <img src="./assets/img/24981.svg">
-        </div>
-        <nav>
-            <ul>
-                <li>
-                    <a href="#about">01. About</a>
-                </li>
-                <li>
-                    <a href="#experience">02.Experience</a>
-                </li>
-                <li>
-                    <a href="#projects">03. Work</a>
-                </li>
-                <li>
-                    <a href="#contact">04. Contact</a>
-                </li>
-                <li><button>Resume</button></li>
-            </ul>
+        <nav class="nav-header">
+            <div class="header-img">
+                <img src="./assets/img/geometric-solids.svg">
+            </div>
+
+            <div>
+                <ol class="head-list">
+                    <li>
+                        <a href="#about">About</a>
+                    </li>
+                    <li>
+                        <a href="#experience">Experience</a>
+                    </li>
+                    <li>
+                        <a href="#projects">Work</a>
+                    </li>
+                    <li>
+                        <a href="#contact">Contact</a>
+                    </li>
+                    <div class="button">
+                        <button>Resume</button>
+                    </div>
+                </ol>
+            </div>
         </nav>
     </header>
 
-    <section class="about-me">
-        <!-- Add some margin on left and right to shorten the width of these elements -->
-        <!-- Or use flexbox for this -->
-        <!-- Add larger font for the p and h1 tags-->
-        <p>Hi, my name is</p>
-        <h1>Shinichi.</h1>
-        <div>
-            <h1>I build things for the web.</h1>
-            <p>I'm a Columbus based web developer in the making. Currently am studying web development methods and tech in a software bootcamp. Currently, I'm a Computer System Validation engineer at Veeva Systems. Come check out some of my projects.</p>
-        </div>
+    <!-- <main> -->
+        <section class="hero">
+            <!-- Add some margin on left and right to shorten the width of these elements -->
+            <!-- Or use flexbox for this -->
+            <!-- Add larger font for the p and h1 tags-->
+            <div class="container">
+                <div class="hero-intro primary">
+                    <h2>Hi, my name is</h2>
+                </div>
+                <div class="hero-intro secondary">
+                    <h2>Shinichi Miyakawa.</h2>
+                </div>
+                <div class="hero-intro">
+                    <p>I'm a Columbus based web developer in the making. Currently am studying web development methods through a Bootcamp with The Ohio State University. A Computer Systems Validation engineer by day, looking to pivot into web development.</p>
+                </div>
+            </div>
+        </section>
+    <!-- </main> -->
+
+    <section id="about"> 
+        <h4> About me</h4>
     </section>
 
-    <section class="projects">
+    <section id="experience">
+
+    </section>
+    <section id="projects" class="projects">
         <div class="projects-container">
             <div class="project">
                 test
@@ -61,6 +80,10 @@
                 test
             </div>
         </div>
+    </section>
+
+    <section id="contact">
+
     </section>
 </body>
 </html>

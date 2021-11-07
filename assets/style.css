@@ -1,69 +1,129 @@
-:root {
-    --text-color: #05F2DB;
+:root {     
+    --primary-text-color: #64ffda;
+    --secondary-text-color: #ffffffcc;
 }
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     background-color: rgb(29, 44, 64);
 }
 
-/* rgb(10, 25, 47) */
+body {
+    width: 100%;
+    /* margin-left: 100px; */
+}
 
+/* ------------- Start Header -------------- */
 header {
     /* background-color: #1D2C40; */
-    justify-content: space-between;
+    padding: 20px 15px;
     flex-wrap: wrap;
+    justify-content: space-between;
     display: flex;
-    width: 90%;
-    margin: 15px;
+    width: 100%;
+    /* margin: 25px; */
     padding: 0 30px;
 }
 
-header nav ul li a {
-    font-family: monospace;
-    font-size: 15px;
-    padding: 10px;
-    text-decoration: none;
-    display: inline-block;
-    position: relative;
-    /* color: rgba(230, 230, 230, 0.75); */
-    color: var(--text-color);       
-}
-
-header nav ul{
+.nav-header {
+    width: 100%;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
-header nav ul li {
-    margin: 15px;
-    list-style: none;
+.head-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--primary-text-color);
 }
 
-header button {
+.head-list a {
+    text-decoration: none;
+    color: var(--secondary-text-color); 
     font-family: monospace;
     font-size: 15px;
-    /* color: rgba(230, 230, 230, 0.75); */
-    color: var(--text-color);   
     padding: 10px;
-    height: 40px;
-    width: 30 px;   
 }
 
-header div {
-    height: 50px;
-    width: 50px;
-    color: rgb(255, 255, 255);
+.nav-header ol li {
+    margin: 15px;
+    /* list-style: none; */
+}
+
+.header-img {
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
     opacity: 0.6;
 }
 
-header img {
-    width: 100%;
-}
-/* .header-img {
-    flex: 1 12%;
-    height: 15px;
-    width: 15px;
+/* ----------------- End Header ---------------- */
 
+
+/* --- */
+main {
+    margin: 0px auto;
+    /* min-height: 100vh; */
+    /* max-width: 1000px; */
+}
+/* --- */
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 1000px;
+}
+
+/* ----------------- Start Hero ------------ */
+/* .hero {
+    display: inline-block   ;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    color: var(--secondary-text-color); 
+    width: 80%;  
+    f   ont-family: sans-serif, Tahoma, verdana;
 } */
 
+.hero-intro {
+    display: flex;
+    font-size: 25px;
+    justify-content: start;
+    margin: 15px auto;
+}
+
+.hero-intro p {
+    text-align: start;
+}
+
+.primary {
+    color: var(--primary-text-color);
+}
+.secondary {
+    font-size: 40px;
+    color: var(--secondary-text-color);
+}
+
+
+/* ----------------- End Hero -------------- */
+
+/* ---------------- Start Projects --------  */
+.projects {
+    /* display: flex; */
+    /* justify-content: center; */
+}
+
+.projects-container {
+    max-width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+.project {
+    display: flex;
+    flex-wrap: wrap;
+}
+/* ---------------- End Projects ---------- */

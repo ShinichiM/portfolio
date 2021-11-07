@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    viewBox="0 0 648.98 231.05"
+    version="1.1"
+  >
+  <defs
+      id="defs4"
+    >
+    <filter
+        id="filter4236"
+        height="1.6589"
+        width="1.1124"
+        y="-.32947"
+        x="-.056185"
+        color-interpolation-filters="sRGB"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur4238"
+          stdDeviation="4.3980674"
+      />
+    </filter
+    >
+  </defs
+  >
+  <g
+      id="layer1"
+      transform="translate(1105.1 -354.36)"
+    >
+    <path
+        id="path4242"
+        filter="url(#filter4236)"
+        d="m-466.66 562.85-50.363 11.609-83.608 0.39259-53.894-11.119 16.403-14.258 74.349-6.6602 76.309 5.9527z"
+        fill="#121716"
+        fill-opacity=".83588"
+    />
+    <path
+        id="path4240"
+        filter="url(#filter4236)"
+        d="m-692.66 562.85-50.363 11.609-83.608 0.39259-53.894-11.119 16.403-14.258 74.349-6.6602 76.309 5.9527z"
+        fill="#121716"
+        fill-opacity=".83588"
+    />
+    <path
+        id="path4197"
+        filter="url(#filter4236)"
+        d="m-906.66 562.85-50.363 11.609-83.608 0.39259-53.894-11.119 16.403-14.258 74.349-6.6602 76.309 5.9527z"
+        fill="#121716"
+        fill-opacity=".83588"
+    />
+    <g
+        id="g4111"
+        transform="translate(221.81 47.98)"
+      >
+      <path
+          id="path4099"
+          fill="#dbe3e2"
+          d="m-1180.6 471.31-85.73 0.33894-26.814-81.429 69.158-50.665 69.556 50.117z"
+      />
+      <path
+          id="path4101"
+          opacity=".82192"
+          d="m-1224 31.291-0.088-33.181-61.051 20-38.661 53.05 30.643 10.796z"
+          fill-opacity=".93333"
+          transform="translate(0 308.27)"
+          fill="#e7eeef"
+      />
+      <path
+          id="path4103"
+          opacity=".82192"
+          d="m-1224.1-1.8899 62.555 20.489 37.732 51.77-30.643 11.038-69.556-50.117z"
+          fill-opacity=".93333"
+          transform="translate(0 308.27)"
+          fill="#b7c8c4"
+      />
+      <path
+          id="path4105"
+          d="m-1154.4 81.407 30.643-11.038v65.938l-37.732 51.77-19.081-25.031z"
+          fill="#6f918a"
+          transform="translate(0 308.27)"
+      />
+      <path
+          id="path4107"
+          d="m-1161.5 188.08-19.081-25.031-85.73 0.33894-18.796 25.181 61.051 20z"
+          fill="#536c67"
+          transform="translate(0 308.27)"
+      />
+      <path
+          id="path4109"
+          opacity=".82192"
+          d="m-1285.1 188.57 18.796-25.181-26.814-81.429-30.643-10.796v64.356z"
+          fill-opacity=".93333"
+          transform="translate(0 308.27)"
+          fill="#b7c8c4"
+      />
+    </g
+    >
+    <g
+        id="g4119"
+        transform="matrix(0 1 -1 0 -373.15 1683.4)"
+      >
+      <path
+          id="path4121"
+          d="m-1180.6 471.31-85.73 0.33894-26.814-81.429 69.158-50.665 69.556 50.117z"
+          fill="#f4d7d7"
+      />
+      <path
+          id="path4123"
+          d="m-1224 31.291-0.088-33.181-61.051 20-38.661 53.05 30.643 10.796z"
+          fill="#d35f5f"
+          transform="translate(0 308.27)"
+      />
+      <path
+          id="path4125"
+          d="m-1224.1-1.8899 62.555 20.489 37.732 51.77-30.643 11.038-69.556-50.117z"
+          fill="#d35f5f"
+          transform="translate(0 308.27)"
+      />
+      <path
+          id="path4127"
+          d="m-1154.4 81.407 30.643-11.038v65.938l-37.732 51.77-19.081-25.031z"
+          fill="#de8787"
+          transform="translate(0 308.27)"
+      />
+      <path
+          id="path4129"
+          d="m-1161.5 188.08-19.081-25.031-85.73 0.33894-18.796 25.181 61.051 20z"
+          fill="#e9afaf"
+          transform="translate(0 308.27)"
+      />
+      <path
+          id="path4131"
+          d="m-1285.1 188.57 18.796-25.181-26.814-81.429-30.643-10.796v64.356z"
+          fill="#de8787"
+          transform="translate(0 308.27)"
+      />
+    </g
+    >
+    <g
+        id="g4183"
+        transform="matrix(-1 0 0 -1 -1784.6 871.19)"
+      >
+      <path
+          id="path4185"
+          fill="#b7c8b7"
+          d="m-1180.6 471.31-85.73 0.33894-26.814-81.429 69.158-50.665 69.556 50.117z"
+      />
+      <path
+          id="path4187"
+          d="m-1224 31.291-0.088-33.181-61.051 20-38.661 53.05 30.643 10.796z"
+          fill="#93ac93"
+          transform="translate(0 308.27)"
+      />
+      <path
+          id="path4189"
+          d="m-1224.1-1.8899 62.555 20.489 37.732 51.77-30.643 11.038-69.556-50.117z"
+          fill="#536c53"
+          transform="translate(0 308.27)"
+      />
+      <path
+          id="path4191"
+          d="m-1154.4 81.407 30.643-11.038v65.938l-37.732 51.77-19.081-25.031z"
+          fill="#374837"
+          transform="translate(0 308.27)"
+      />
+      <path
+          id="path4193"
+          d="m-1161.5 188.08-19.081-25.031-85.73 0.33894-18.796 25.181 61.051 20z"
+          fill="#93ac93"
+          transform="translate(0 308.27)"
+      />
+      <path
+          id="path4195"
+          d="m-1285.1 188.57 18.796-25.181-26.814-81.429-30.643-10.796v64.356z"
+          fill="#dbe3db"
+          transform="translate(0 308.27)"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Geometric Solids</dc:title
+        >
+        <dc:date
+          >2013-10-30T19:21:24</dc:date
+        >
+        <dc:description
+          >A geometric solids</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/186820/geometric-solids-by-guseinstein-186820</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >GusEinstein</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >geometric solids</rdf:li
+            >
+            <rdf:li
+              >geometry</rdf:li
+            >
+            <rdf:li
+              >solids</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
