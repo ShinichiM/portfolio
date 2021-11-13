@@ -124,7 +124,6 @@ section {
     color: var(--primary-text-color);
 }
 .secondary-text {
-    /* font-size: 55px; */
     color: var(--secondary-text-color);
 }
 .tertiary-text {
@@ -189,7 +188,6 @@ section {
         justify-content: space-between;
         position: relative;
     }
-
     .nav-header ul li a {
         font-size: 20px;
     }
@@ -197,14 +195,28 @@ section {
     .width-750 {
         width: auto;
     }
+    .project {
+        width: auto;
+        height: auto;
+    }
 }
 
 @media screen and (max-width: 768px) {
-    .projects-container {
-        justify-content: flex-start;
+    .width-750 {
+        width: auto;
+    }
+    .project {
+        width: auto;
+        height: auto;
     }
 }
 
 @media screen and (max-width: 575px) {
-
+    .project {
+        width: auto;
+        height: auto;
+    }
+    .width-750 {
+        width: auto;
+    }
 }
