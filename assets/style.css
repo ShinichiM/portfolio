@@ -130,6 +130,9 @@ section {
     color: var(--tertiary-text-color);
 }
 
+.fonts {
+    font-family: var(--font-family);
+}
 .width-750 {
     width: 750px;
 }
@@ -187,36 +190,54 @@ section {
         padding-bottom: 0;
         justify-content: space-between;
         position: relative;
+        flex: 1 100%;
     }
     .nav-header ul li a {
         font-size: 20px;
     }
-
     .width-750 {
+        flex: 1 100%;
         width: auto;
     }
     .project {
+        flex: 0 100%;
         width: auto;
         height: auto;
     }
 }
 
 @media screen and (max-width: 768px) {
+    header {
+        padding-bottom: 0;
+        justify-content: space-between;
+        position: relative;
+        flex: 1 100%;
+    }
     .width-750 {
         width: auto;
+        flex: 1 100%;
     }
     .project {
+        flex: 0 100%;
         width: auto;
         height: auto;
-    }
+    } 
 }
 
 @media screen and (max-width: 575px) {
+    header {
+        padding-bottom: 0;
+        justify-content: space-between;
+        position: relative;
+        flex: 0 100%;
+    }
     .project {
+        flex: 0 100%;
         width: auto;
         height: auto;
     }
     .width-750 {
+        flex: 0 100%;
         width: auto;
     }
 }
